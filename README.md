@@ -11,7 +11,8 @@ Load
 - store the data in BigQuery
 
 Transform
+- Query the data from BigQuery
 - remove unrelated feature from the tweet text, links, symbols, etc.
-- translate tweets to english using googletrans
+- translate tweets to english using deep translator
 - sentiment analysis using textblob
-- plot time series graph of sentiment polarity
+- visualisation with Data studio
