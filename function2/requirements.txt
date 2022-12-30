@@ -1,0 +1,9 @@
+pandas >= 1.4.2
+pandas_gbq >= 0.18.1
+google-cloud-core >= 2.3.2
+google-cloud-storage >= 2.6.0
+google-cloud-bigquery >= 3.3.6
+google-cloud-bigquery[pandas]
+db-dtypes >= 1.0.5
+deep_translator >= 1.9.1
+textblob >= 0.17.1
